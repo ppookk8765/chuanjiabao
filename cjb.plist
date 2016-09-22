@@ -32,15 +32,15 @@
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
-               <string>com.blog.lvtao</string>
+               <string>io.dcloud.H585C75CE</string>
                <key>bundle-version</key>
                <string>1.0.0</string>
                <key>kind</key>
                <string>software</string>
                <key>subtitle</key>
-               <string>滔哥博客</string>
+               <string>船加宝</string>
                <key>title</key>
-               <string>滔哥博客</string>
+               <string>船加宝</string>
            </dict>
        </dict>
    </array>
