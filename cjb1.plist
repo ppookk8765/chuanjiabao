@@ -13,22 +13,6 @@
                    <key>url</key>
                    <string>http://61.155.169.132/chuanjiabao.ipa</string>
                </dict>
-               <dict>
-                   <key>kind</key>
-                   <string>display-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://www.lvtao.net/applogo.png</string>
-               </dict>
-	       <dict>
-                   <key>kind</key>
-                   <string>full-size-image</string>
-                   <key>needs-shine</key>
-                   <true/>
-                   <key>url</key>
-                   <string>http://www.lvtao.net/applogo.png</string>
-               </dict>
            </array><key>metadata</key>
            <dict>
                <key>bundle-identifier</key>
